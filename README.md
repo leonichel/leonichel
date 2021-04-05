@@ -32,4 +32,4 @@
 <br />
 <br />
 
-<img align="left" alt="Leonichel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leonichel&show_icons=true&hide_border=true&theme=dark" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonichel&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
