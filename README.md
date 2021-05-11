@@ -31,11 +31,19 @@
 
 [<img align="left" alt="Plotly" height="36px" src="https://minerandodados.com.br/wp-content/uploads/2018/10/plotly.png"/>](https://seaborn.pydata.org/)
 
-[<img align="left" alt="Scikit-learn" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>](https://scikit-learn.org/stable/)
-
 [<img align="left" alt="Streamlit" height="36px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"/>](https://streamlit.io/)
 
-[<img align="left" alt="GitHub" height="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>](https://github.com/)
+[<img align="left" alt="Scikit-learn" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>](https://scikit-learn.org/stable/)
+
+[<img align="left" alt="Pytorch" height="36px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>](https://pytorch.org/)
+
+[<img align="left" alt="Tensorflow" height="36px" src="https://bestofjs.org/logos/tensorflow.svg"/>](https://www.tensorflow.org/)
+
+[<img align="left" alt="Keras" height="36px" src="https://intoli.com/img/banners/keras.svg"/>](https://keras.io/)
+
+[<img align="left" alt="GitHub" height="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>](https://github.com)
+
+[<img align="left" alt="Docker" height="36px" src="https://cdn.worldvectorlogo.com/logos/docker.svg"/>](https://www.docker.com/)
 
 <img align="left" alt="Linux" height="36px" src="https://iconvulture.com/wp-content/uploads/2017/12/linux-logo.svg"/>
 
