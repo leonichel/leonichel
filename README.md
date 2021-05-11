@@ -19,7 +19,7 @@
 
 [<img align="left" alt="Anaconda" height="28px" src="https://anaconda.org/static/img/anaconda-symbol.svg"/>](https://www.anaconda.com/)
 
-[<img align="left" alt="JuPyter" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>](https://jupyter.org/)
+[<img align="left" alt="Jupyter" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>](https://jupyter.org/)
 
 [<img align="left" alt="Visual Studio Code" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>](https://code.visualstudio.com/)
 
@@ -29,7 +29,7 @@
 
 [<img align="left" alt="Seaborn" height="28px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>](https://seaborn.pydata.org/)
 
-[<img align="left" alt="Plotly" height="28px" src="https://minerandodados.com.br/wp-content/uploads/2018/10/plotly.png"/>](https://plotly.com/)
+[<img align="left" alt="Plotly" height="28px" src="https://symbols.getvecta.com/stencil_92/6_plotly-icon.9c7261a075.svg"/>](https://plotly.com/)
 
 [<img align="left" alt="Streamlit" height="28px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"/>](https://streamlit.io/)
 
