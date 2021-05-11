@@ -7,28 +7,39 @@
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg" />](https://www.kaggle.com/leonichel)
+[<img align="left"  width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg"/>](https://www.kaggle.com/leonichel)
 
-[<img align="left" alt="cabreirajm | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@leonichelg)
+[<img align="left" alt="cabreirajm | medium" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg"/>](https://medium.com/@leonichelg)
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
+[<img align="left" alt="Python" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>](https://www.python.org/)
 
-<img align="left" alt="Numpy" width="26px" src="https://cdn.worldvectorlogo.com/logos/numpy.svg" />
+[<img align="left" alt="Anaconda" height="36px" src="https://anaconda.org/static/img/anaconda-symbol.svg"/>](https://www.anaconda.com/)
 
-<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" />
+[<img align="left" alt="JuPyter" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>](https://jupyter.org/)
 
-<img align="left" alt="JuPyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" />
+[<img align="left" alt="Visual Studio Code" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>](https://code.visualstudio.com/)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+[<img align="left" alt="Numpy" height="36px" src="https://cdn.worldvectorlogo.com/logos/numpy.svg"/>](https://numpy.org/)
 
-[<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
+[<img align="left" alt="Pandas" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/>](https://pandas.pydata.org/)
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+[<img align="left" alt="Seaborn" height="36px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>](https://plotly.com/)
 
+[<img align="left" alt="Plotly" height="36px" src="https://minerandodados.com.br/wp-content/uploads/2018/10/plotly.png"/>](https://seaborn.pydata.org/)
+
+[<img align="left" alt="Scikit-learn" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>](https://scikit-learn.org/stable/)
+
+[<img align="left" alt="Streamlit" height="36px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"/>](https://streamlit.io/)
+
+[<img align="left" alt="GitHub" height="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>](https://github.com/)
+
+<img align="left" alt="Linux" height="36px" src="https://iconvulture.com/wp-content/uploads/2017/12/linux-logo.svg"/>
+
+<br />
 <br />
 <br />
 
