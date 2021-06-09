@@ -1,11 +1,11 @@
-### Leonichel Guimarães - [Data Scientist] :wave:
+# Leonichel Guimarães - [Data Scientist] :wave:
 
 ## I am an electrical engineer turned data scientist who appreciate learning from data and create high-tech solutions. :wink:
 
 - :computer: I’m currently working as a machine learning searcher
 - :chart_with_upwards_trend: I’m constantly learning, and improving my skills, about data science and machine learning
 
-### Connect with me:
+# Connect with me:
 
 [<img align="left"  width="36px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>](https://www.linkedin.com/in/leonichel/)
 
@@ -15,7 +15,7 @@
 
 <br />
 
-### Languages and Tools:
+# Languages and Tools:
 
 [<img align="left" alt="Python" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>](https://www.python.org/)
 
@@ -33,7 +33,7 @@
 
 <img align="left" alt="Linux" height="24px" src="https://iconvulture.com/wp-content/uploads/2017/12/linux-logo.svg"/>
 
----
+
 
 [<img align="left" alt="Numpy" height="24px" src="https://cdn.worldvectorlogo.com/logos/numpy.svg"/>](https://numpy.org/)
 
@@ -53,9 +53,7 @@
 
 [<img align="left" alt="Keras" height="24px" src="https://intoli.com/img/banners/keras.svg"/>](https://keras.io/)
 
----
 
-<br />
 <br />
 <br />
 
