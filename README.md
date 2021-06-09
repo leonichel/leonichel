@@ -7,6 +7,8 @@
 
 ### Connect with me:
 
+[<img align="left"  width="36px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>](https://www.linkedin.com/in/leonichel/)
+
 [<img align="left"  width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg"/>](https://www.kaggle.com/leonichel)
 
 [<img align="left" alt="cabreirajm | medium" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg"/>](https://medium.com/@leonichelg)
