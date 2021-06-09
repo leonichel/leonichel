@@ -14,6 +14,7 @@
 [<img align="left" alt="cabreirajm | medium" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg"/>](https://medium.com/@leonichelg)
 
 <br />
+<br />
 
 # Languages and Tools:
 
@@ -53,7 +54,7 @@
 
 [<img align="left" alt="Keras" height="24px" src="https://intoli.com/img/banners/keras.svg"/>](https://keras.io/)
 
-
+<br />
 <br />
 <br />
 
