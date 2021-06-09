@@ -33,7 +33,7 @@
 
 <img align="left" alt="Linux" height="24px" src="https://iconvulture.com/wp-content/uploads/2017/12/linux-logo.svg"/>
 
-<br />
+---
 
 [<img align="left" alt="Numpy" height="24px" src="https://cdn.worldvectorlogo.com/logos/numpy.svg"/>](https://numpy.org/)
 
@@ -52,6 +52,8 @@
 [<img align="left" alt="Tensorflow" height="24px" src="https://bestofjs.org/logos/tensorflow.svg"/>](https://www.tensorflow.org/)
 
 [<img align="left" alt="Keras" height="24px" src="https://intoli.com/img/banners/keras.svg"/>](https://keras.io/)
+
+---
 
 <br />
 <br />
