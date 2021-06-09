@@ -17,6 +17,8 @@
 
 [<img align="left" alt="Python" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>](https://www.python.org/)
 
+<img align="left" alt="SQL" height="28px" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png"/>
+
 [<img align="left" alt="Anaconda" height="28px" src="https://anaconda.org/static/img/anaconda-symbol.svg"/>](https://www.anaconda.com/)
 
 [<img align="left" alt="Jupyter" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>](https://jupyter.org/)
