@@ -27,6 +27,14 @@
 
 [<img align="left" alt="Visual Studio Code" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>](https://code.visualstudio.com/)
 
+[<img align="left" alt="GitHub" height="24px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>](https://github.com)
+
+[<img align="left" alt="Docker" height="24px" src="https://cdn.worldvectorlogo.com/logos/docker.svg"/>](https://www.docker.com/)
+
+<img align="left" alt="Linux" height="24px" src="https://iconvulture.com/wp-content/uploads/2017/12/linux-logo.svg"/>
+
+<br />
+
 [<img align="left" alt="Numpy" height="24px" src="https://cdn.worldvectorlogo.com/logos/numpy.svg"/>](https://numpy.org/)
 
 [<img align="left" alt="Pandas" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/>](https://pandas.pydata.org/)
@@ -44,12 +52,6 @@
 [<img align="left" alt="Tensorflow" height="24px" src="https://bestofjs.org/logos/tensorflow.svg"/>](https://www.tensorflow.org/)
 
 [<img align="left" alt="Keras" height="24px" src="https://intoli.com/img/banners/keras.svg"/>](https://keras.io/)
-
-[<img align="left" alt="GitHub" height="24px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>](https://github.com)
-
-[<img align="left" alt="Docker" height="24px" src="https://cdn.worldvectorlogo.com/logos/docker.svg"/>](https://www.docker.com/)
-
-<img align="left" alt="Linux" height="24px" src="https://iconvulture.com/wp-content/uploads/2017/12/linux-logo.svg"/>
 
 <br />
 <br />
