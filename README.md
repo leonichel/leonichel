@@ -1,9 +1,6 @@
 # Leonichel Guimarães - [Data Scientist] :wave:
 
-## I am an electrical engineer turned data scientist who appreciate learning from data and create high-tech solutions. :wink:
-
-- :computer: I’m currently working as a machine learning searcher
-- :chart_with_upwards_trend: I’m constantly learning, and improving my skills, about data science and machine learning
+## I am an aspiring data science with a bachelor's degree in electrical engineering interested in utilizing data to solve problems. :wink:
 
 # Connect with me:
 
