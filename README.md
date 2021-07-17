@@ -1,6 +1,6 @@
 # Leonichel Guimarães - [Data Scientist] :wave:
 
-## I am an aspiring data science with a bachelor's degree in electrical engineering interested in utilizing data to solve problems. :wink:
+I am an aspiring data science with a bachelor's degree in electrical engineering interested in utilizing data to solve problems. :wink:
 
 # Connect with me:
 
