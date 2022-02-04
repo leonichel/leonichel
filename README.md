@@ -1,6 +1,6 @@
 # Leonichel Guimarães - [Data Scientist] :wave:
 
-I am a data science interested in utilizing data to solve problems. :wink:
+I am a data scientist interested in utilizing data to solve problems. :wink:
 
 # Connect with me:
 
