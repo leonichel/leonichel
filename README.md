@@ -1,4 +1,4 @@
-# Leonichel Guimarães - [Data Engineer/Scientist] :wave:
+# Leonichel Guimarães - [Data Engineer] :wave:
 
-I am a data engineer/scientist interested in utilizing data to solve problems. :wink:
+I am a data engineer interested in utilizing data to solve problems. :wink:
 
